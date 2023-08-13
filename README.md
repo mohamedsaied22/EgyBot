@@ -1,3 +1,5 @@
+https://github.com/mohamedsaied22/EgyBot/assets/127026703/fe198900-6e6b-4a65-bcae-744c559948a7
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
